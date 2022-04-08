@@ -6,7 +6,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.util.List;
 
-public class StarWarsWordFinder {
+public class StarWarsWordFinderWithGson {
 
     static final String STARWARS_URL_PEOPLE_API = "https://swapi.dev/api/people";
     static int foundTimes = 0;
